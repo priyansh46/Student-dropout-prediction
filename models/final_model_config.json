@@ -1,0 +1,13 @@
+{
+    "model": "Random Forest",
+    "threshold": 0.4,
+    "roc_auc": 0.6806650003168584,
+    "precision_dropout": 0.2799406748238784,
+    "recall_dropout": 0.6882406563354604,
+    "f1_dropout": 0.39799683711122824,
+    "true_positives": 755,
+    "false_positives": 1942,
+    "false_negatives": 342,
+    "true_negatives": 2546,
+    "students_flagged": 2697
+}

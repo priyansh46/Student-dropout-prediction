@@ -1,0 +1,19 @@
+{
+    "dataset": "Open University Learning Analytics Dataset (OULAD)",
+    "prediction_unit": "student-module presentation",
+    "cutoff_day": 21,
+    "target": "1 = Withdrawn, 0 = Pass/Fail/Distinction",
+    "population_size": 27921,
+    "dropout_rate": 0.196411,
+    "selected_model": "Random Forest",
+    "selected_threshold": 0.4,
+    "roc_auc": 0.6806650003168584,
+    "dropout_precision": 0.279941,
+    "dropout_recall": 0.688241,
+    "dropout_f1": 0.397997,
+    "true_positives": 755,
+    "false_positives": 1942,
+    "false_negatives": 342,
+    "true_negatives": 2546,
+    "students_flagged": 2697
+}
